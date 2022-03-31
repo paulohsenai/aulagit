@@ -6,8 +6,8 @@ from email.mime.base import MIMEBase
 from email import encoders
 
 
-EMAIL_LOGIN = 'deabcontato88@gmail.com'
-EMAIL_SENHA = 'contato@2021'
+EMAIL_LOGIN = '#############'
+EMAIL_SENHA = '########'
 
 
 def enviar_email():
